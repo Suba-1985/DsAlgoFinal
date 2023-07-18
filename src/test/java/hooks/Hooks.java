@@ -59,7 +59,7 @@ public class Hooks {
 		LoggerLoad.info("Closing App");
 		
 	//	prop.clear();
-		//driver.close();
+		driver.close();
 	}
 	
 	

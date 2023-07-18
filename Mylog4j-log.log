@@ -8772,3 +8772,633 @@
 [INFO ]2023-07-16 07:26:57.297 [TestNG-tests-1]LoggerLoad-Test Success
 [INFO ]2023-07-16 07:26:57.298 [TestNG-tests-1]LoggerLoad-Closing App
 [INFO ]2023-07-16 07:27:21.554 [TestNG-tests-1]LoggerLoad-Test FinishedTestEdge
+[INFO ]2023-07-18 05:33:12.026 [TestNG-tests-2]LoggerLoad-setting the browser type from test runner class chrome
+[INFO ]2023-07-18 05:33:12.026 [TestNG-tests-1]LoggerLoad-setting the browser type from test runner class Edge
+[INFO ]2023-07-18 05:33:13.178 [TestNG-tests-2]LoggerLoad-Launching the URL :https://dsportalapp.herokuapp.com/
+[INFO ]2023-07-18 05:33:13.178 [TestNG-tests-1]LoggerLoad-Launching the URL :https://dsportalapp.herokuapp.com/
+[INFO ]2023-07-18 05:33:13.180 [TestNG-tests-1]LoggerLoad-Driver : Initializing the driver first
+[INFO ]2023-07-18 05:33:13.180 [TestNG-tests-2]LoggerLoad-Driver : Initializing the driver first
+[INFO ]2023-07-18 05:33:13.180 [TestNG-tests-1]LoggerLoad-Edge Browser is Opening
+[INFO ]2023-07-18 05:33:13.181 [TestNG-tests-2]LoggerLoad-chrome Browser is Opening
+[INFO ]2023-07-18 05:33:26.418 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:26.753 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:27.439 [TestNG-tests-1]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:27.470 [TestNG-tests-2]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:27.487 [TestNG-tests-2]LoggerLoad-User Clicks on Drop Down DataStructures Button
+[INFO ]2023-07-18 05:33:27.487 [TestNG-tests-1]LoggerLoad-User Clicks on Drop Down DataStructures Button
+[INFO ]2023-07-18 05:33:28.385 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:28.385 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:28.398 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:28.399 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:28.762 [TestNG-tests-1]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:28.770 [TestNG-tests-1]LoggerLoad-User Clicks on Drop Down DataStructures Button
+[INFO ]2023-07-18 05:33:28.804 [TestNG-tests-2]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:28.809 [TestNG-tests-2]LoggerLoad-User Clicks on Drop Down DataStructures Button
+[INFO ]2023-07-18 05:33:29.440 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:29.450 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:29.543 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:29.560 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:29.689 [TestNG-tests-1]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:29.691 [TestNG-tests-1]LoggerLoad-User Clicks on Drop Down DataStructures Button
+[INFO ]2023-07-18 05:33:29.820 [TestNG-tests-2]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:29.825 [TestNG-tests-2]LoggerLoad-User Clicks on Drop Down DataStructures Button
+[INFO ]2023-07-18 05:33:30.383 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:30.392 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:30.622 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:30.630 [TestNG-tests-1]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:30.633 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:30.634 [TestNG-tests-1]LoggerLoad-User Clicks on Drop Down DataStructures Button
+[INFO ]2023-07-18 05:33:30.890 [TestNG-tests-2]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:30.893 [TestNG-tests-2]LoggerLoad-User Clicks on Drop Down DataStructures Button
+[INFO ]2023-07-18 05:33:31.337 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:31.346 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:31.575 [TestNG-tests-1]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:31.576 [TestNG-tests-1]LoggerLoad-User Clicks on Drop Down DataStructures Button
+[INFO ]2023-07-18 05:33:31.665 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:31.675 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:31.852 [TestNG-tests-2]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:31.855 [TestNG-tests-2]LoggerLoad-User Clicks on Drop Down DataStructures Button
+[INFO ]2023-07-18 05:33:32.267 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:32.277 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:32.454 [TestNG-tests-1]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:32.456 [TestNG-tests-1]LoggerLoad-User Clicks on Drop Down DataStructures Button
+[INFO ]2023-07-18 05:33:32.603 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:32.611 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:32.788 [TestNG-tests-2]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:32.790 [TestNG-tests-2]LoggerLoad-User Clicks on Drop Down DataStructures Button
+[INFO ]2023-07-18 05:33:33.158 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:33.166 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:33.342 [TestNG-tests-1]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:33.484 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:33.492 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:33.720 [TestNG-tests-2]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:33.747 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:33.755 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:34.173 [TestNG-tests-1]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:34.349 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:34.357 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:34.598 [TestNG-tests-2]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:34.648 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:34.656 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:34.898 [TestNG-tests-1]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:35.050 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:35.059 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:35.339 [TestNG-tests-2]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:35.425 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:35.436 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:35.720 [TestNG-tests-1]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:35.797 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:35.806 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:36.134 [TestNG-tests-2]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:36.229 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:36.237 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:36.552 [TestNG-tests-1]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:36.660 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:36.670 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:36.942 [TestNG-tests-2]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:37.066 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:37.076 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:37.307 [TestNG-tests-1]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:37.365 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:37.373 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:37.645 [TestNG-tests-2]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:37.814 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:37.823 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:38.119 [TestNG-tests-1]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:38.151 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:38.158 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:38.428 [TestNG-tests-2]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:38.627 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:38.637 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:38.967 [TestNG-tests-1]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:39.023 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:39.033 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:39.344 [TestNG-tests-2]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:39.417 [TestNG-tests-1]LoggerLoad-user should be navigated to sign page : https://dsportalapp.herokuapp.com/login
+[INFO ]2023-07-18 05:33:39.442 [TestNG-tests-1]LoggerLoad-Login page check https://dsportalapp.herokuapp.com/login
+[INFO ]2023-07-18 05:33:39.456 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:39.464 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:39.750 [TestNG-tests-1]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:39.824 [TestNG-tests-2]LoggerLoad-user should be navigated to sign page : https://dsportalapp.herokuapp.com/login
+[INFO ]2023-07-18 05:33:39.843 [TestNG-tests-2]LoggerLoad-Login page check https://dsportalapp.herokuapp.com/login
+[INFO ]2023-07-18 05:33:39.860 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:39.872 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:40.096 [TestNG-tests-2]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:40.271 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:40.278 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:40.528 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:40.537 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:40.729 [TestNG-tests-1]LoggerLoad-Navigated to registerurl https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-18 05:33:40.835 [TestNG-tests-2]LoggerLoad-Navigated to registerurl https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-18 05:33:41.103 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:41.113 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:41.266 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:41.288 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:41.671 [TestNG-tests-1]LoggerLoad-Navigated to registerurl https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-18 05:33:41.732 [TestNG-tests-2]LoggerLoad-Navigated to registerurl https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-18 05:33:42.006 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:42.022 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:42.072 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:42.089 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:42.493 [TestNG-tests-1]LoggerLoad-Navigated to registerurl https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-18 05:33:42.504 [TestNG-tests-2]LoggerLoad-Navigated to registerurl https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-18 05:33:43.066 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:43.075 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:43.096 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:43.109 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:43.584 [TestNG-tests-2]LoggerLoad-Navigated to registerurl https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-18 05:33:43.697 [TestNG-tests-1]LoggerLoad-Navigated to registerurl https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-18 05:33:43.929 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:43.944 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:44.143 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:44.175 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:44.639 [TestNG-tests-2]LoggerLoad-Navigated to registerurl https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-18 05:33:44.806 [TestNG-tests-1]LoggerLoad-Navigated to registerurl https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-18 05:33:45.065 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:45.076 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:45.292 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:45.321 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:45.627 [TestNG-tests-2]LoggerLoad-Navigated to registerurl https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-18 05:33:45.906 [TestNG-tests-1]LoggerLoad-Navigated to registerurl https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-18 05:33:46.334 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:46.342 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:46.709 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:46.717 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:46.790 [TestNG-tests-2]LoggerLoad-Navigated to registerurl https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-18 05:33:47.096 [TestNG-tests-1]LoggerLoad-Navigated to registerurl https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-18 05:33:47.552 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:47.565 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:47.794 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:47.803 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:47.804 [TestNG-tests-2]LoggerLoad-Navigated to registerurl https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-18 05:33:48.089 [TestNG-tests-1]LoggerLoad-Navigated to registerurl https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-18 05:33:48.427 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:48.434 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:48.688 [TestNG-tests-2]LoggerLoad-Navigated to registerurl https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-18 05:33:48.725 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:48.733 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:49.019 [TestNG-tests-1]LoggerLoad-Navigated to registerurl https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-18 05:33:49.260 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:49.266 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:49.520 [TestNG-tests-2]LoggerLoad-Navigated to registerurl https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-18 05:33:49.644 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:49.652 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:49.938 [TestNG-tests-1]LoggerLoad-Navigated to registerurl https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-18 05:33:50.105 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:50.112 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:50.365 [TestNG-tests-2]LoggerLoad-Navigated to registerurl https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-18 05:33:50.585 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:50.592 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:50.869 [TestNG-tests-1]LoggerLoad-Navigated to registerurl https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-18 05:33:50.926 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:50.933 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:51.166 [TestNG-tests-2]LoggerLoad-Navigated to registerurl https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-18 05:33:51.438 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:51.447 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:51.719 [TestNG-tests-1]LoggerLoad-Navigated to registerurl https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-18 05:33:51.736 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:51.743 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:51.985 [TestNG-tests-2]LoggerLoad-Navigated to registerurl https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-18 05:33:52.353 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:52.360 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:52.618 [TestNG-tests-1]LoggerLoad-Navigated to registerurl https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-18 05:33:53.797 [TestNG-tests-2]LoggerLoad-LandingPage after register https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:53.830 [TestNG-tests-1]LoggerLoad-LandingPage after register https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:57.020 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:57.027 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:57.068 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:57.071 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:57.168 [TestNG-tests-2]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:57.232 [TestNG-tests-1]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:33:57.446 [TestNG-tests-2]LoggerLoad-user should be navigated to sign page : https://dsportalapp.herokuapp.com/login
+[INFO ]2023-07-18 05:33:57.453 [TestNG-tests-2]LoggerLoad-Login page check https://dsportalapp.herokuapp.com/login
+[INFO ]2023-07-18 05:33:57.467 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:57.483 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:57.499 [TestNG-tests-1]LoggerLoad-user should be navigated to sign page : https://dsportalapp.herokuapp.com/login
+[INFO ]2023-07-18 05:33:57.512 [TestNG-tests-1]LoggerLoad-Login page check https://dsportalapp.herokuapp.com/login
+[INFO ]2023-07-18 05:33:57.520 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:57.527 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:57.851 [TestNG-tests-2]LoggerLoad-User is on login page https://dsportalapp.herokuapp.com/login
+[INFO ]2023-07-18 05:33:57.892 [TestNG-tests-1]LoggerLoad-User is on login page https://dsportalapp.herokuapp.com/login
+[INFO ]2023-07-18 05:33:58.049 [TestNG-tests-2]LoggerLoad-empty field error chek  Please fill out this field.
+[INFO ]2023-07-18 05:33:58.070 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:58.084 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:58.126 [TestNG-tests-1]LoggerLoad-empty field error chek  Please fill out this field.
+[INFO ]2023-07-18 05:33:58.150 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:58.160 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:58.478 [TestNG-tests-2]LoggerLoad-User is on login page https://dsportalapp.herokuapp.com/login
+[INFO ]2023-07-18 05:33:58.510 [TestNG-tests-1]LoggerLoad-User is on login page https://dsportalapp.herokuapp.com/login
+[INFO ]2023-07-18 05:33:58.902 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:58.913 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:58.947 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:58.955 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:59.291 [TestNG-tests-2]LoggerLoad-User is on login page https://dsportalapp.herokuapp.com/login
+[INFO ]2023-07-18 05:33:59.357 [TestNG-tests-1]LoggerLoad-User is on login page https://dsportalapp.herokuapp.com/login
+[INFO ]2023-07-18 05:33:59.875 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:59.882 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:33:59.948 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:33:59.957 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:00.389 [TestNG-tests-2]LoggerLoad-User is on login page https://dsportalapp.herokuapp.com/login
+[INFO ]2023-07-18 05:34:00.459 [TestNG-tests-1]LoggerLoad-User is on login page https://dsportalapp.herokuapp.com/login
+[INFO ]2023-07-18 05:34:01.004 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:01.011 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:01.074 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:01.084 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:01.520 [TestNG-tests-2]LoggerLoad-User is on login page https://dsportalapp.herokuapp.com/login
+[INFO ]2023-07-18 05:34:01.679 [TestNG-tests-1]LoggerLoad-User is on login page https://dsportalapp.herokuapp.com/login
+[INFO ]2023-07-18 05:34:02.010 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:02.021 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:02.205 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:02.224 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:02.789 [TestNG-tests-2]LoggerLoad-User is on login page https://dsportalapp.herokuapp.com/login
+[INFO ]2023-07-18 05:34:02.925 [TestNG-tests-1]LoggerLoad-User is on login page https://dsportalapp.herokuapp.com/login
+[INFO ]2023-07-18 05:34:03.197 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:03.208 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:03.386 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:03.401 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:03.808 [TestNG-tests-2]LoggerLoad-User is on login page https://dsportalapp.herokuapp.com/login
+[INFO ]2023-07-18 05:34:03.886 [TestNG-tests-1]LoggerLoad-User is on login page https://dsportalapp.herokuapp.com/login
+[INFO ]2023-07-18 05:34:04.429 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:04.435 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:04.495 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:04.502 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:04.881 [TestNG-tests-2]LoggerLoad-User is in :Data Structures-Introduction
+[INFO ]2023-07-18 05:34:04.975 [TestNG-tests-1]LoggerLoad-User is in :Data Structures-Introduction
+[INFO ]2023-07-18 05:34:05.260 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:05.267 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:05.340 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:05.348 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:08.840 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:08.846 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:08.940 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:08.944 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:11.631 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:11.637 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:11.727 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:11.738 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:12.510 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:12.516 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:12.575 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:12.580 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:13.112 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:13.125 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:13.282 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:13.288 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:14.086 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:14.096 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:14.298 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:14.314 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:15.725 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:15.735 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:15.829 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:15.840 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:17.223 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:17.231 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:17.312 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:17.320 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:18.781 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:18.789 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:18.795 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:18.802 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:22.505 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:22.509 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:22.514 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:22.517 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:25.438 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:25.441 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:25.448 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:25.451 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:28.530 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:28.537 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:28.567 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:28.571 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:31.582 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:31.596 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:31.609 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:31.620 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:34.651 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:34.659 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:34.757 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:34.770 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:37.996 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:38.003 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:38.039 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:38.045 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:38.589 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:38.595 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:38.596 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:38.600 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:39.621 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:39.631 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:39.682 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:39.691 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:40.918 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:40.932 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:40.961 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:40.972 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:42.210 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:42.225 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:42.505 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:42.521 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:34:54.942 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:34:54.949 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:35:02.550 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:35:02.555 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:35:08.941 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:35:08.952 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:35:12.773 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:35:12.779 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:35:17.483 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:35:17.495 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:35:21.951 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:35:21.964 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:35:28.464 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:35:28.471 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:35:30.462 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:35:30.472 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:35:39.141 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:35:39.148 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:35:40.698 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:35:40.705 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:35:47.357 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:35:47.364 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:35:48.805 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:35:48.816 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:35:56.067 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:35:56.075 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:35:57.685 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:35:57.700 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:05.089 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:36:05.102 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:06.670 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:36:06.684 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:13.400 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:36:13.405 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:13.556 [TestNG-tests-1]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:36:13.935 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:36:13.943 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:14.802 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:36:14.816 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:15.190 [TestNG-tests-2]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:36:16.036 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:36:16.050 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:18.144 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:36:18.251 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:21.384 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:36:21.406 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:23.673 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:36:23.684 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:25.248 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:36:25.267 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:28.896 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:36:28.912 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:30.184 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:36:30.201 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:33.263 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:36:33.272 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:34.285 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:36:34.312 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:36.782 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:36:36.802 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:38.440 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:36:38.472 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:41.566 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:36:41.674 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:42.620 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:36:42.640 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:44.322 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:36:44.334 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:44.927 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:36:44.982 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:48.901 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:36:48.925 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:49.169 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:36:49.190 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:52.086 [TestNG-tests-2]LoggerLoad-https://dsportalapp.herokuapp.com/linked-list/introduction/
+[INFO ]2023-07-18 05:36:52.221 [TestNG-tests-1]LoggerLoad-https://dsportalapp.herokuapp.com/linked-list/introduction/
+[INFO ]2023-07-18 05:36:52.873 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:36:52.893 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:53.082 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:36:53.101 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:55.395 [TestNG-tests-2]LoggerLoad-https://dsportalapp.herokuapp.com/linked-list/creating-linked-list/
+[INFO ]2023-07-18 05:36:56.082 [TestNG-tests-1]LoggerLoad-https://dsportalapp.herokuapp.com/linked-list/creating-linked-list/
+[INFO ]2023-07-18 05:36:56.107 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:36:56.134 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:56.896 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:36:56.936 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:36:59.165 [TestNG-tests-2]LoggerLoad-https://dsportalapp.herokuapp.com/linked-list/types-of-linked-list/
+[INFO ]2023-07-18 05:37:00.508 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:00.532 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:01.798 [TestNG-tests-1]LoggerLoad-https://dsportalapp.herokuapp.com/linked-list/types-of-linked-list/
+[INFO ]2023-07-18 05:37:02.821 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:02.845 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:03.626 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:03.649 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:05.807 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:05.837 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:05.963 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:05.981 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:07.971 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:07.994 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:08.002 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:08.021 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:10.553 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:10.571 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:10.696 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:10.719 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:14.094 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:14.119 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:14.736 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:14.763 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:17.318 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:17.339 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:18.221 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:18.238 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:20.858 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:20.871 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:22.247 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:22.257 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:24.197 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:24.201 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:25.435 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:25.440 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:27.020 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:27.026 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:28.329 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:28.333 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:29.842 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:29.845 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:31.170 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:31.179 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:32.641 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:32.652 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:34.123 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:34.128 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:35.611 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:35.622 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:37.273 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:37.293 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:38.725 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:38.746 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:39.097 [TestNG-tests-2]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:37:39.689 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:39.715 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:40.144 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:40.161 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:42.159 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:42.174 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:42.749 [TestNG-tests-1]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:37:43.913 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:43.930 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:44.140 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:44.158 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:47.801 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:47.817 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:47.886 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:47.897 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:51.388 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:51.406 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:51.850 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:51.862 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:55.165 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:55.185 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:55.723 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:55.749 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:37:58.271 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:37:58.300 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:00.455 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:00.471 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:02.050 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:02.068 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:04.701 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:04.727 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:05.985 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:06.012 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:08.912 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:08.940 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:09.710 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:09.772 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:11.794 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:11.825 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:13.252 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:13.269 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:14.019 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:14.044 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:16.185 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:16.208 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:17.888 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:17.904 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:18.580 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:18.594 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:20.086 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:20.104 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:20.784 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:20.805 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:22.589 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:22.633 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:24.091 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:24.108 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:24.885 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:24.903 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:27.042 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:27.057 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:27.737 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:27.757 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:29.883 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:29.902 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:30.527 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:30.548 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:33.654 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:33.680 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:34.495 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:34.513 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:37.453 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:37.512 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:38.055 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:38.086 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:40.946 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:40.980 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:41.620 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:41.645 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:44.506 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:44.518 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:45.389 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:45.411 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:47.611 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:47.627 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:48.730 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:48.753 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:50.554 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:50.565 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:52.068 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:52.092 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:53.936 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:53.954 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:55.614 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:55.629 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:57.271 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:57.285 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:38:59.264 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:38:59.281 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:39:00.471 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:39:00.483 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:39:02.889 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:39:02.900 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:39:03.213 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:39:03.230 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:39:06.502 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:39:06.533 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:39:07.633 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:39:07.666 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:39:09.343 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:39:09.360 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:39:11.601 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:39:11.617 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:39:12.317 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:39:12.336 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:39:15.810 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:39:15.887 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:39:16.087 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:39:16.114 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:39:20.165 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:39:20.238 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:39:20.254 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:39:20.272 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:39:22.575 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:39:22.598 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:39:23.191 [TestNG-tests-2]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:39:24.393 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:39:24.426 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:39:24.562 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:39:24.587 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:39:27.905 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:39:27.923 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:39:27.943 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:39:27.955 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:39:31.421 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:39:31.434 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:39:31.545 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:39:31.568 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:39:34.451 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:39:34.474 [TestNG-tests-2]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:39:35.299 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:39:35.324 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:39:38.219 [TestNG-tests-2]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:39:38.280 [TestNG-tests-2]LoggerLoad-Closing App
+[INFO ]2023-07-18 05:39:54.404 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:39:54.412 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:39:55.774 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:39:55.782 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:39:56.220 [TestNG-tests-1]LoggerLoad-Navigated to HomePage:  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-18 05:39:57.287 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:39:57.299 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:39:57.475 [TestNG-tests-2]LoggerLoad-Test FinishedTestChrome
+[INFO ]2023-07-18 05:39:59.863 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:39:59.876 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:40:01.714 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:40:01.725 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:40:03.599 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:40:03.607 [TestNG-tests-1]LoggerLoad-inTestStart
+[INFO ]2023-07-18 05:40:05.385 [TestNG-tests-1]LoggerLoad-Test Success
+[INFO ]2023-07-18 05:40:05.397 [TestNG-tests-1]LoggerLoad-Closing App
+[INFO ]2023-07-18 05:40:16.261 [TestNG-tests-1]LoggerLoad-Test FinishedTestEdge
